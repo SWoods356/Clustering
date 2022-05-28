@@ -1,7 +1,7 @@
 # Clustering
 Clustering for Melbourne Housing Segmentation
 
-## Sumarry
+## Summary
 
 This paper uses clustering and dimension reduction techniques to identify groups of houses that share 
 similar characteristics with one another. This paper focuses on housing data from Melbourne Australia.
